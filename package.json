@@ -1,4 +1,4 @@
 {
 	"name": "Outline",
-	"main": "index.js"
+	"main": "loader.js"
 }

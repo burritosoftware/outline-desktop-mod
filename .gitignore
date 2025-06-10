@@ -1,0 +1,5 @@
+# Ignore pushing custom instance URLs
+instance.txt
+
+# Plugins related files
+devNoLoadPlugins
